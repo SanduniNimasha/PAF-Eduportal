@@ -6,7 +6,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Document(collection = "learningPlans") // <-- Updated this line
+@Document(collection = "learningPlans") // <-- Updated this
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
