@@ -1,4 +1,4 @@
-package com.PAF.paf.repo; //import package
+package com.PAF.paf.repo; 
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
